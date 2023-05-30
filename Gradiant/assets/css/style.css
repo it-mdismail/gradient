@@ -1,0 +1,6 @@
+div{
+    background-image:linear-gradient(rgba(138, 138, 138, 0.5), rgba(138, 138, 138, 0.5)),
+    url('../img/rivers.jpg');
+    height: 50vh;
+    background-size: cover;
+}
